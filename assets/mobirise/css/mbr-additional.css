@@ -1939,6 +1939,13 @@ blockquote {
 .cid-tbz0uWIfbw .mbr-section-title {
   color: #dcc187;
 }
+.cid-tbz0uWIfbw .slider__content .slider__title {
+  color: #dcc187;
+}
+.cid-tbz0uWIfbw .slider__content .slider__text,
+.cid-tbz0uWIfbw .link {
+  color: #cce4f0;
+}
 #custom-html-2c {
   /* Type valid CSS here */
 }
@@ -2022,7 +2029,7 @@ blockquote {
 }
 .cid-u3k4ansfqS .content-panel {
   padding: 3rem;
-  background: linear-gradient(45deg, #135d53, #c0e8e2);
+  background: linear-gradient(45deg, #cce4f0, #dcc187);
   height: 100%;
   border-top-right-radius: 0.25rem;
   border-bottom-right-radius: 0.25rem;
@@ -2034,7 +2041,7 @@ blockquote {
   flex-direction: column;
 }
 .cid-u3k4ansfqS .mbr-text {
-  color: #efefef;
+  color: #003d59;
 }
 .cid-u3k4ansfqS .form-control {
   border-radius: 10px !important;
@@ -2102,6 +2109,12 @@ blockquote {
   .cid-u3k4ansfqS .form-container {
     border-radius: 30px 30px 0 0 !important;
   }
+}
+.cid-u3k4ansfqS .mbr-title {
+  color: #689bb2;
+}
+.cid-u3k4ansfqS .wrapper .row .title {
+  color: #dcc187;
 }
 .cid-u38m0sNLJg {
   min-height: 114px !important;
