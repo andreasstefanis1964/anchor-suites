@@ -1242,7 +1242,7 @@ blockquote {
   }
 }
 .cid-u3kgfaT2kd {
-  background-image: url("../../../assets/images/699335813.jpg-1024x576.jpg");
+  background-image: url("../../../assets/images/b47cb5b2-dcfc-4f6e-85ce-80d72a01885f.jpg-1600x900.jpg");
 }
 .cid-u3kgfaT2kd .mbr-fallback-image.disabled {
   display: none;
@@ -1336,7 +1336,7 @@ blockquote {
   padding-bottom: 5rem;
   flex-direction: column;
   justify-content: center;
-  background-image: url("../../../assets/images/inscription-crete-wet-sand-closeup-background-2000x1333.jpg");
+  background-image: url("../../../assets/images/whatsapp-image-2025-06-23-at-19.55.06.jpeg-1600x900.jpg");
 }
 .cid-u3jSGrAF60 .mbr-fallback-image.disabled {
   display: none;
@@ -1420,7 +1420,7 @@ blockquote {
 }
 .cid-s14xqCLrIp .mbr-section-title {
   margin-bottom: 25px;
-  color: #3a6686;
+  color: #dcc187;
 }
 .cid-s14xqCLrIp .mbr-section-subtitle {
   margin-bottom: 88px;
@@ -1594,12 +1594,13 @@ blockquote {
   padding-top: 8rem;
   padding-bottom: 8rem;
   overflow: hidden;
-  background-color: #c0e8e2;
+  background-color: #000000;
 }
 .cid-tbz0uWIfbw .mbr-text {
   margin-top: 20px;
   margin-bottom: 50px;
   padding-right: 70px;
+  color: #ffffff;
 }
 .cid-tbz0uWIfbw .title__block {
   padding-left: 96px;
@@ -1622,7 +1623,7 @@ blockquote {
   height: 119px;
   bottom: -90px;
   right: -95px;
-  background-image: url("../../../assets/images/logo-hellasbnb-280x337.png");
+  background-image: url("../../../assets/images/logo-anchor-suites.png-232x186.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -1862,11 +1863,11 @@ blockquote {
   outline: none;
   transition: all .3s;
   border-radius: 50%;
-  border: 2px solid #003d59;
+  border: 2px solid #dcc187;
   background-color: transparent;
 }
 .cid-tbz0uWIfbw .embla__button span {
-  color: #003d59;
+  color: #dcc187;
   font-size: 18px;
 }
 .cid-tbz0uWIfbw .embla__button:disabled {
@@ -1931,6 +1932,12 @@ blockquote {
   .cid-tbz0uWIfbw .embla__container .embla__slide:last-child {
     margin-right: 2rem !important;
   }
+}
+.cid-tbz0uWIfbw .mbr-section-subtitle {
+  color: #dcc187;
+}
+.cid-tbz0uWIfbw .mbr-section-title {
+  color: #dcc187;
 }
 #custom-html-2c {
   /* Type valid CSS here */
