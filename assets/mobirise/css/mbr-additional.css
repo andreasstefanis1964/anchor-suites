@@ -1281,7 +1281,7 @@ blockquote {
 .cid-u37ZpLXiP6 {
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background-color: #fceecf;
+  background-color: #000000;
 }
 .cid-u37ZpLXiP6 .mbr-section-title {
   margin-bottom: 35px;
@@ -1303,7 +1303,7 @@ blockquote {
   height: 119px;
   top: -100px;
   left: -50px;
-  background-image: url("../../../assets/images/logo-hellasbnb-280x337.png");
+  background-image: url("../../../assets/images/logo-anchor-suites.png-232x186.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -1326,6 +1326,10 @@ blockquote {
   height: 100%;
   position: absolute;
   top: 0;
+}
+.cid-u37ZpLXiP6 .mbr-section-title,
+.cid-u37ZpLXiP6 .mbr-section-btn {
+  color: #dcc187;
 }
 .cid-u3jSGrAF60 {
   padding-top: 5rem;
