@@ -1280,27 +1280,6 @@ blockquote {
 .cid-u37ZpLXiP6 .mbr-section-btn {
   color: #dcc187;
 }
-.cid-uSJrfD6a8j .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-uSJrfD6a8j .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-  background-image: url("../../../assets/images/b47cb5b2-dcfc-4f6e-85ce-80d72a01885f.jpg-1600x900-800x450.jpg");
-}
-.cid-uSJrfD6a8j .image-wrap {
-  height: 450px;
-}
-@media (max-width: 992px) {
-  .cid-uSJrfD6a8j .image-wrap {
-    height: 350px;
-  }
-}
 .cid-u3jSGrAF60 {
   padding-top: 5rem;
   padding-bottom: 5rem;
