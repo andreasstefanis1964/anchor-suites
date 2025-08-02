@@ -1909,8 +1909,8 @@ blockquote {
 }
 .cid-u3k4ansfqS {
   padding-top: 0px;
-  padding-bottom: 45px;
-  background-color: #ffffff;
+  padding-bottom: 0px;
+  background-color: #100a01;
 }
 .cid-u3k4ansfqS .google-map {
   height: 50rem;
@@ -1940,7 +1940,7 @@ blockquote {
 }
 .cid-u3k4ansfqS .wrapper {
   margin-top: -10rem;
-  background: #ffffff;
+  background: #100a01;
   -webkit-box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
   box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
   border-radius: 40px;
